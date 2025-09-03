@@ -33,7 +33,12 @@ This is my first personal project and my contribution to the data science and ML
 - **Improved logging**: Cleaner and more descriptive status reporting.  
 
 ---
+SwiftEDA is developed as a learning project and personal contribution to simplify EDA workflows.
 
+The Devlog contains detailed patch notes for each version, implementation details, and real-world test case reports.
+
+Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
+---
 ## Example Usage (V2)
 
 ```python
