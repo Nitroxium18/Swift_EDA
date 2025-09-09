@@ -76,3 +76,7 @@ header, data, types = clean_df(
 
 print("Header:", header)
 print("Types:", types)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  Version 3.12.7
+
+License: ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
