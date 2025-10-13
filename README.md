@@ -80,3 +80,7 @@ print("Types:", types)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  Version 3.12.7
 
 License: ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+### Thank you for viewing Swift EDA! Contributions, collaborations & feedback welcome!
+### SwiftEDA is an open source learning project & I'd love to collaborate with others who are passionate about Data Science & Python tooling. 
+### If you'd like to help improve future versions whether through ideas, testing or development or notice any bugs, please open an issue. If you've already made improvements, open a PR so we can review & merge them. I'd love to learn from your feedback. Every bit helps the project grow!
